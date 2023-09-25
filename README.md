@@ -7,3 +7,4 @@ Here are some highlights:
 • Timing is Everything: Notably, the 31st day of the month recorded the lowest number of calls. An intriguing pattern worth exploring further.
 • Preferred Channel: Customers lean towards the call center for their inquiries, underlining its pivotal role in our service ecosystem.
 • State Insights: Dive into the distribution of calls across states for a granular understanding of customer needs.
+![DashboardCallCenter](https://github.com/SwatiKushwaha24/Excel-Dashboard-for-Call-Center-Data/assets/105541005/15ab2906-3be7-4976-ad9d-87c6fbc0ed4d)
